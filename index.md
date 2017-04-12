@@ -1,7 +1,9 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Latest Posts By Rahul"
+image:
+    feature: skyline-feature.jpg
 ---
 
 <div class="tiles">
