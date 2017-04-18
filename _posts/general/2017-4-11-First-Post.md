@@ -3,6 +3,7 @@
 title: Just Getting Started...
 layout: article
 share: False
+categories: general
 
 ---
 

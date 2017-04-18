@@ -1,7 +1,8 @@
 ---
 layout: archive
-permalink: /archive/
-title: "Archive"
+permalink: /general/
+title: Archive
+categories: General
 
 ---
 

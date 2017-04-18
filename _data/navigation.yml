@@ -3,3 +3,7 @@
 - title: About
   url: /about/
   excerpt: "About Me"
+
+- title: General
+  url: /general/
+  exceprt: "Archive of Articles"
