@@ -4,7 +4,9 @@ title: Just Getting Started...
 layout: article
 share: False
 categories: general
-
+image:
+  feature: getting-started.jpg
+  teaser: getting-started.jpg
 ---
 
 

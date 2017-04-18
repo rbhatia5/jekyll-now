@@ -17,8 +17,16 @@ I graduated with a degree in  Computer Engineering at University of Illinois at 
 
 ### Experience
 
-I joined Citadel in July 2015 and am currently working there.
+* Citadel
+	* May 2015 - Present
+* Adobe
+	* May 2014 - August 2014
+* GE Healthcare
+	* May 2013 - August 2013 
 
 ## Interests
+
+I'm currently interested in Machine Learning, Statistics, Data Engineering, and Finance. I spend my free time studying classic and modern techniques in ml and statistics so that I can use my knowledge to better understand the noisy data that drive markets.
+
 
 
